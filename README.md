@@ -14,7 +14,7 @@ This application was developed as part of the text encryption challenge - Alura 
 **Server<br>Servidor**<br>Github Pages
 
 ## Demo
-[alura-challenge-encriptador-texto](https://jissbossg.github.io/alura-challenge-encriptador-texto/)
+[Alura challenge encriptador de texto](https://jissbossg.github.io/alura-challenge-encriptador-texto/)
 
 ## Screenshots<br>Capturas de pantalla
 
